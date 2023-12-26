@@ -1,7 +1,7 @@
 {
   "name": "shopify-theme-tailwindcss",
   "version": "2.2.1",
-  "description": "A starting point for an Online Store 2.0 theme using Tailwind CSS",
+  "description": "",
   "private": true,
   "scripts": {
     "dev": "vite build --watch",
@@ -9,10 +9,6 @@
     "shopify": "cd shopify && shopify theme dev",
     "install-theme": "ts-node scripts/install-theme.ts --repo=https://github.com/Shopify/dawn.git"
   },
-  "keywords": [
-    "Shopify Theme",
-    "Online Store 2.0"
-  ],
   "author": "Wessel van Ree <hello@wesselvanree.com>",
   "license": "MIT",
   "devDependencies": {
